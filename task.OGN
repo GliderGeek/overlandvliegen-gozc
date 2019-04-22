@@ -1,10 +1,30 @@
 {
-  "tasks": [
-    {
-      "name": "GoZC MOW",
-      "color": "0080FF",
-      "wlist": ["DDE290", "DDE281", "DD8223", "DD8202", "DDDEFB", "DDE28F", "DDE28E", "DD82CA", "DE0286", "DD96E8", "DD896C", "4851BB", "DD8E52", "F65693", "DDAA0A", "3E7CFF"],
-      "legs": []
-    }
-  ]
+ "tasks": [
+  {
+   "name": "GoZC",
+   "color": "0080FF",
+   "wlist": [
+    "DDE28F",
+    "DDE28E",
+    "DDE290",
+    "DDE281",
+    "DD8223",
+    "DD8202",
+    "4852FD",
+    "DDDEFB",
+    "DE0286",
+    "DD96E8",
+    "DD896C",
+    "4851BB",
+    "DD8E52",
+    "F65693",
+    "D0037A",
+    "484BFE",
+    "484F1E",
+    "DDA8B9",
+    "DDE29A"
+   ],
+   "legs": []
+  }
+ ]
 }
